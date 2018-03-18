@@ -4,8 +4,8 @@ permalink: /
 title: "Simply Done"
 excerpt: "Modern Home Repair and Management."
 ---
-### Bring margin back to city living.
-Simply Done is a modern home repair and management service provided to our members. Use Simply Done to fix your leaky pipe, organize your pantry, get the internet working, and much more all on your schedule.
+### Introducing Simply Done.
+Simply Done is a subscription service providing modern home repair and management. We are locally owned business located in St. Louis' Fox Park neighborhood.
 
 <hr style="margin: 50px 0;" >
 
